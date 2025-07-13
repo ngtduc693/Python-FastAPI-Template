@@ -1,4 +1,4 @@
-# FastAPI + Pydantic v2 + Azure Cosmos + CQRS Project
+# FastAPI + Pydantic v2 + CQRS Project
 
 ## Features
 - FastAPI with Pydantic v2
@@ -38,7 +38,7 @@
 
 ## Deployment
 - Ready for CI/CD on Azure Cloud.
-- Use Alembic for migrations.
+- Use Alembic for migrations, if you use the NOSQL like Azure Cosmos NoSQL, just skip it.
 - Use Sentry for error monitoring.
 
 ## Notes
